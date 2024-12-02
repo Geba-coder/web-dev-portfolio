@@ -1,0 +1,20 @@
+let - Описание: let используется для объявления переменных в JavaScript, блочную область видимости
+var -  объявления переменных и блочная  область видимости
+const - переменных, значение которых не может быть изменено после инициализации
+function
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+let name1= "lice";
+greet(name1);
+
+if -  для выполнения условий
+
+
+ myHeading.textContent — для изменения текста элемента.
+document.querySelector — для поиска элемента на странице.
+getAttribute и setAttribute — для получения и изменения атрибутов HTML-элементов.
+
+
+localStorage
+
